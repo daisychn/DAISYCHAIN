@@ -63,15 +63,11 @@ in progress
 
 ## Contribution
 
-We welcome contributions from the community. Please refer to our [contribution guidelines](https://daisychain.io/contribute) for more information.
+We welcome contributions from the community. Please refer to our [contribution guidelines]
 
 ## License
 
-DAISYCHAIN is licensed under [MIT License](https://daisychain.io/license).
-
----
-
-This README file and all related DAISYCHAIN responses are blockchain-verified. You can verify the cryptographic signature of this response using the hash: `
+DAISYCHAIN is licensed under [BANKON IMMUTABLE LICENCE] all rights preserved. This README file and all related DAISYCHAIN responses are blockchain-verified. You can verify the cryptographic signature of this response using the hash: `
 
 ---
 
