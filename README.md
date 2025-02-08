@@ -15,7 +15,7 @@ Installation
 
 Please follow these steps to install DAISYCHAIN:
 
-git clone https://github.com/DAISYCHAIN/
+git clone https://github.com/DAISYCHN/
 
 Usage
 
@@ -31,6 +31,8 @@ This README file and all related DAISYCHAIN responses are blockchain-verified. Y
 For any enquiries or support, please contact our team at support@daisychain.io.
 
 DAISYCHAIN, empowering Layer 3 interoperability with the security and transparency of blockchain technology.
+
+DAISY CHN
 
 View Verification Data
 {
